@@ -69,7 +69,6 @@ def distDL(u, v):
 décommenter pour tester la fonction
 """
 #distDL("faute_de_frappe", "fote_de_farppe")
-#distDL("marine", "mouad")
 
 def dict_words(path):
     """
